@@ -1,0 +1,10 @@
+.btn {
+    cursor: pointer;
+    border: 1px solid #3498db;
+    background-color: transparent;
+    height: 40px;
+    width: 80px;
+    color: #0d1f2b;
+    font-size: 1em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
